@@ -1,0 +1,74 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "console.history": [
+        "npm run build",
+        "run"
+    ],
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/astok/Documents/490/techtonic/Tiled Project/area01_level_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "src/data/map/Game Test.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 330.5,
+                "y": 247
+            }
+        },
+        "src/data/map/neotiles.tsx": {
+            "scaleInDock": 1
+        },
+        "src/data/map/pickUpCoin.tmx": {
+            "scale": 0.208740234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 984.4771929824562,
+                "y": 514.9941520467835
+            }
+        },
+        "src/data/map/retrowave.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "src/data/map/street-1-1.tsx": {
+            "scaleInDock": 1
+        },
+        "src/data/map/streets-tilee-v2.tsx": {
+            "scaleInDock": 1
+        },
+        "src/data/map/testCoinPickup.tmx": {
+            "expandedObjectLayers": [
+                8,
+                7
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 563.5,
+                "y": 556.5
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/astok/Documents/490/techtonic/Techtonic-1/src/data/img",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "openFiles": [
+    ],
+    "project": "2dgame.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "src/data/map/testCoinPickup.tmx",
+        "src/data/map/Game Test.tmx",
+        "src/data/map/pickUpCoin.tmx",
+        "src/data/map/retrowave.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
