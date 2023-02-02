@@ -13,6 +13,11 @@ const DataManifest = [
     src: "./data/fnt/PressStart2P.fnt",
   },
   {
+    name: "Final_level",
+    type: "tmx",
+    src: "./data/tmx/Final_level.tmx",
+  },
+  {
     name: "testCoinPickup",
     type: "tmx",
     src: "./data/map/testCoinPickup.tmx",
