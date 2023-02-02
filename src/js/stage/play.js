@@ -15,7 +15,7 @@ class PlayScreen extends Stage {
     // add a gray background to the default Stage
     game.world.addChild(new ColorLayer("background", "#23f67a"));
 
-    level.load("testCoinPickup");
+    level.load("Final_level");
     audio.setVolume(0.5);
     audio.playTrack("space-120280");
   }

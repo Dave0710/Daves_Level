@@ -19,7 +19,7 @@ import PlayScreen from "js/stage/play.js";
 import GameOverScreen from "js/stage/gameover.js";
 import PlayerEntity from "js/renderables/player.js";
 import CoinEntity from "js/renderables/coin.js";
-import HealthBarEntity from "js/renderables/healthbar.js";
+import HealthEntity from "js/renderables/healthbar.js";
 import EnemyEntity from "js/renderables/enemy.js";
 import DataManifest from "manifest.js";
 
@@ -69,7 +69,7 @@ device.onReady(() => {
     pool.register("Enemy", EnemyEntity);
 
     // add health bar to entity
-    pool.register("HealthBarEntity", HealthBarEntity);
+    pool.register("HealthBarEntity", HealthEntity);
 
     input.bindKey(input.KEY.LEFT, "left");
     input.bindKey(input.KEY.RIGHT, "right");

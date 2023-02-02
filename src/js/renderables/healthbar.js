@@ -10,7 +10,7 @@ import * as me from "melonjs/dist/melonjs.module.js";
 
 let entities = {};
 
-class HealthBarEntity extends Collectable {
+class HealthEntity extends Collectable {
   constructor(x, y, settings) {
     super(x, y, settings);
     this.body.collisiontype = me.collision.types.COLLECTABLE_OBJECT;
@@ -26,5 +26,5 @@ class HealthBarEntity extends Collectable {
   }
 }
 
-entities.HealthBarEntity = HealthBarEntity;
+entities.HealthEntity = HealthEntity;
 export default entities;
