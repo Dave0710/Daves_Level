@@ -13,9 +13,9 @@ const DataManifest = [
     src: "./data/fnt/PressStart2P.fnt",
   },
   {
-    name: "Final_level",
+    name: "DM_level",
     type: "tmx",
-    src: "./data/tmx/Final_level.tmx",
+    src: "./data/tmx/DM_level.tmx",
   },
   {
     name: "testCoinPickup",
