@@ -13,9 +13,9 @@ const DataManifest = [
     src: "./data/fnt/PressStart2P.fnt",
   },
   {
-    name: "DM_level",
+    name: "NewDave_level",
     type: "tmx",
-    src: "./data/tmx/DM_level.tmx",
+    src: "./data/map/NewDave_level.tmx",
   },
   {
     name: "testCoinPickup",
@@ -51,6 +51,11 @@ const DataManifest = [
     name: "coin",
     type: "image",
     src: "./data/img/coin.png",
+  },
+  {
+    name: "lifeicon",
+    type: "image",
+    src: "./data/img/lifeicon.png",
   },
   {
     name: "coin",

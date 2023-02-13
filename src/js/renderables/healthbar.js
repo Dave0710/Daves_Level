@@ -3,12 +3,13 @@ import {
   input,
   game,
   Collectable,
+  audio
 } from "melonjs/dist/melonjs.module.js";
 import PlayerEntity from "./player";
 
 import * as me from "melonjs/dist/melonjs.module.js";
 
-let entities = {};
+//let entities = {};
 
 class HealthEntity extends Collectable {
   constructor(x, y, settings) {
@@ -26,5 +27,5 @@ class HealthEntity extends Collectable {
   }
 }
 
-entities.HealthEntity = HealthEntity;
-export default entities;
+// entities.HealthEntity = HealthEntity;
+export default HealthEntity;

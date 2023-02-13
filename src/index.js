@@ -69,7 +69,7 @@ device.onReady(() => {
     pool.register("Enemy", EnemyEntity);
 
     // add health bar to entity
-    pool.register("HealthBarEntity", HealthEntity);
+    pool.register("Heart", HealthEntity);
 
     input.bindKey(input.KEY.LEFT, "left");
     input.bindKey(input.KEY.RIGHT, "right");
